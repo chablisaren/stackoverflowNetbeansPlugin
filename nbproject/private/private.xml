@@ -3,9 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/marcos/NetBeansProjects/stackoverflowNetbeansPlugin/src/org/stackoverflow/StackPanel.java</file>
-            <file>file:/home/marcos/NetBeansProjects/stackoverflowNetbeansPlugin/src/org/stackoverflow/StackActionListener.java</file>
-            <file>file:/home/marcos/NetBeansProjects/stackoverflowNetbeansPlugin/manifest.mf</file>
+            <file>file:/Users/bjoerk/NetBeansProjects/stackoverflowNetbeansPlugin/src/org/stackoverflow/SearchStackOverflow.java</file>
+            <file>file:/Users/bjoerk/NetBeansProjects/stackoverflowNetbeansPlugin/src/org/stackoverflow/StackPanel.java</file>
         </group>
     </open-files>
 </project-private>
